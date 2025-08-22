@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Wesley
+# 👋 Olá, eu sou o Wesley Mendes
 
 - 🎓 Estudante de **Ciência da Computação** (PUC Minas – 3º período)
 - 💻 Técnico em **Redes de Computadores** (Senac – 2023)
@@ -9,7 +9,6 @@
 ## 🚀 Tecnologias & Ferramentas
 - **Linguagens:** C, Python, Java (em aprendizado), SQL
 - **Banco de Dados:** MySQL (DDL, DML, DQL, DTL)
-- **Cloud:** Google Cloud Foundations
 - **Outros:** Redes de Computadores e Hardware
 
 ---
