@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Wesley
 
-🎓 Estudante de **Ciência da Computação** (PUC Minas – 3º período)
-💻 Técnico em **Redes de Computadores** (Senac – 2023)
-🌐 Focado em **programação e banco de dados**
+- 🎓 Estudante de **Ciência da Computação** (PUC Minas – 3º período)
+- 💻 Técnico em **Redes de Computadores** (Senac – 2023)
+- 🌐 Focado em **programação e banco de dados**
 
 ---
 
@@ -15,9 +15,8 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [Caixa Eletrônico (C)](https://github.com/mendeswesley/caixa-eletronico) – Simulação de operações bancárias em C
-- [Caixa Eletrônico em Java](https://github.com/mendeswesley/caixa-eletronico-java) – Versão em Java do sistema
 - [Glossário de Libras](https://github.com/mendeswesley/glossario-de-libras) – Projeto acadêmico de acessibilidade
+- [Caixa Eletrônico (C)](https://github.com/mendeswesley/caixa-eletronico) – Simulação de operações bancárias em C
 
 ---
 
