@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias e Ferramentas
 - **Linguagens:** C, Python, Java (em aprendizado), SQL
 - **Banco de Dados:** MySQL (DDL, DML, DQL, DTL)
 - **Outros:** Redes de Computadores e Hardware
