@@ -21,5 +21,4 @@
 
 ## 📫 Onde me encontrar
 - LinkedIn: [linkedin.com/in/mendeswesley](https://www.linkedin.com/in/mendeswesley)
-- GitHub: [github.com/mendeswesley](https://github.com/mendeswesley)
 - Email: contato.wesleymendes@outlook.com
