@@ -18,7 +18,3 @@
 - [Caixa Eletrônico (C)](https://github.com/mendeswesley/caixa-eletronico) – Simulação de operações bancárias em C
 
 ---
-
-## 📫 Onde me encontrar
-- LinkedIn: [linkedin.com/in/mendeswesley](https://www.linkedin.com/in/mendeswesley)
-- Email: contato.wesleymendes@outlook.com
