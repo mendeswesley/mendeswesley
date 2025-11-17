@@ -2,13 +2,12 @@
 
 - 🎓 Estudante de **Ciência da Computação** (PUC Minas – 3º período)
 - 💻 Técnico em **Redes de Computadores** (Senac – 2023)
-- 🌐 Focado em **programação e banco de dados**
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 - **Linguagens:** C, Python, Java (em aprendizado), SQL
-- **Banco de Dados:** MySQL (DDL, DML, DQL, DTL)
+- **Banco de Dados:** MySQL
 - **Outros:** Redes de Computadores e Hardware
 
 ---
